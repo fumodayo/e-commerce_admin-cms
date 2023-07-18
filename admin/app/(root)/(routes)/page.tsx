@@ -13,7 +13,7 @@ const SetupPage = () => {
     }
   }, [isOpen, onOpen]);
 
-  return <div className="flex items-center justify-center">RootPage</div>;
+  return null;
 };
 
 export default SetupPage;
